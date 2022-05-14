@@ -1,0 +1,6 @@
+module ledSw(
+         input [3:0]sw,
+			output[3:0]
+			);
+
+endmodule
