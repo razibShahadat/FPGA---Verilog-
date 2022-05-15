@@ -1,0 +1,7 @@
+module led_button_count(
+              input clk, 
+				  input button,
+				  output reg [3:0]led
+)
+
+endmodule
